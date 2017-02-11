@@ -1,0 +1,3 @@
+﻿11/02/17
+
+Se desarrolló un sistema de alarma en la plataforma Arduino, que usaba una pantalla LCD para mostrar la hora y los pasos a seguir para registrar una alarma por parte del usuario; está se ingresaba por medio de un  Keypad de números. El tiempo era manejado por un modulo RTC (Real Time Clock) el cual mantenía la hora y se la enviaba a arduino. Como sistema para mostrar la alarma se usó un led acoplado a la tarjeta que viene integrada con arduino. 
